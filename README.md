@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ymcha1028
-- 👀 I’m interested in image processing by machine leanring and stock/crypto-currency auto trading system.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on Mechatro.
+- 👀 I’m interested in image processing by machine leanring.
+- 🌱 I’m currently learning deep learning.
 - 📫 How to reach me is ymcha1028@gmail.com
 
 <!---
